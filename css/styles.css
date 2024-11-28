@@ -51,5 +51,9 @@ color: #434455;
   .nav-link:focus,
   .nav-link:hover,
   .nav-link:focus{
-    color: #404bbf;
+    color: #404bbf ;
   }
+
+ .hero-title{
+  background: #2e2f42;
+ }
