@@ -92,6 +92,17 @@ color: #4d5ae5;
   background-color: #404BBF;
   color: #FFF
  }
+
+ .section-title-list{
+  font-size: 36px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+ }
   
  .item-list-title{
   font-weight: 500;
@@ -128,10 +139,11 @@ section{
  }
 
  .section-title{
+  font-size: 36px;
   text-transform: capitalize;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
