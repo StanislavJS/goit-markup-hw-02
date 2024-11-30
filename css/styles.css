@@ -93,6 +93,19 @@ color: #4d5ae5;
   color: #FFF
  }
 
+.item-list-title{
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.item-text-list{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  
+}
+
  .section-title-list{
   font-size: 36px;
   text-transform: capitalize;
@@ -149,6 +162,10 @@ section{
   color: #2e2f42;
  }
 
+ .list{
+  background-color: #FFFFFF
+ }
+
  .team-section-section{
   background-color: #F4F4FD 
  }
@@ -159,6 +176,7 @@ section{
  }
 
  .item-title-list{
+
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
