@@ -90,6 +90,10 @@ color: #4d5ae5;
   background-color: #404BBF ;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
  }
+ .hero-btn-button:focus{
+  background-color: #404BBF;
+  color: #FFF
+ }
   
   
  .item-text{
@@ -109,12 +113,17 @@ section{
  }
 
  .section-title{
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+ }
+
+ .list{
+  background-color:#FFFFFF;
  }
 
  .item-title-list{
